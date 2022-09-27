@@ -5,7 +5,10 @@ Template for production level standard macros
     Template for production level standard macros                                                                                             
                                                                                                                                               
     Standard macro at the end of this message.                                                                                                
-    Standard macros are high risk code and require more documentation that normal programs                                                    
+    Standard macros are high risk code and require more documentation that normal programs 
+    
+    github
+    https://github.com/rogerjdeangelis/utl-a-template-for-production-level-standard-macros
                                                                                                                                               
     Problem                                                                                                                                   
                                                                                                                                               
